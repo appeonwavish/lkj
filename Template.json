@@ -4,7 +4,7 @@
 		"BuiltinTheme":0, 
 		"Font":"FaceName:Tahoma; TextSize:12",
 		"HideTabHeader":false,
-		"HidePanelText"=false,
+		"HidePanelText":false,
 		"RibbonItems":
 		{
 			"ApplicationButton":
